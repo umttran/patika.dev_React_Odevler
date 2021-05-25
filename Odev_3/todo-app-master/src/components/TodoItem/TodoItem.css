@@ -1,0 +1,6 @@
+/* Üzerine tıklanan liste elamanına atanacak olan class oluşturuldu. */
+
+.checked{
+    text-decoration: line-through;
+    color : gray;
+}
